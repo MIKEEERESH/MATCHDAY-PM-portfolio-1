@@ -93,7 +93,7 @@
 ## 📎 Ссылки
 
 - [📂 GitHub — matchday-pm-portfolio](https://github.com/твой-юзернейм/matchday-pm-portfolio-1)
-- [📋 Notion — презентация проекта](https://notion.so/твоя-ссылка)
+- [📋 Notion — презентация проекта]([https://notion.so/твоя-ссылка](https://app.notion.com/p/MatchDay-Project-3a97fea55d9880a297eef89d4668715b?source=copy_link)
 - [📘 Confluence — рабочая документация](https://твой-атлассиан.atlassian.net/wiki/spaces/MATCHDAY)
 
 ---
