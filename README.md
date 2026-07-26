@@ -98,5 +98,20 @@
 - [📘 Confluence — рабочая документация](https://твой-атлассиан.atlassian.net/wiki/spaces/MATCHDAY)
 
 ---
+## 📂 Структура проекта
+
+![Структура проекта](images/portfolio-structure.png)
+
+---
+
+## 📒 Главная страница Notion
+
+![Notion](images/notion-home.png)
+
+---
+
+## 📖 Пространство Confluence
+
+![Confluence](images/confluence-space.png)
 
 > *Проект выполнен в рамках учебного роудмэпа PM ATLAS v2.0 — MatchDay Edition. Охватывает полный цикл управления IT-продуктом: от Discovery до Delivery. Все артефакты созданы самостоятельно с использованием AI-ассистента для проверки и улучшения.*
