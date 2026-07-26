@@ -1,4 +1,3 @@
-<img width="1262" height="913" alt="PM-24_Confluence_Space" src="https://github.com/user-attachments/assets/75d1974b-b002-4cde-8fe0-89d54087f158" />
 # ⚽ MatchDay — Портфолио IT Project Manager
 
 **Проект:** Официальное мобильное приложение футбольного клуба «Заря» для болельщиков.  
